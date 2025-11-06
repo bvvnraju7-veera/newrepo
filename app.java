@@ -6,4 +6,3 @@ public class SumNumbers {
         System.out.println("The sum is: " + sum);
     }
 }
-{public class }
